@@ -1,0 +1,7 @@
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaSpectacolelor\ProblemaSpectacolelor\bin\Debug\ProblemaSpectacolelor.exe.config
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaSpectacolelor\ProblemaSpectacolelor\bin\Debug\ProblemaSpectacolelor.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaSpectacolelor\ProblemaSpectacolelor\bin\Debug\ProblemaSpectacolelor.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaSpectacolelor\ProblemaSpectacolelor\obj\Debug\ProblemaSpectacolelor.csproj.AssemblyReference.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaSpectacolelor\ProblemaSpectacolelor\obj\Debug\ProblemaSpectacolelor.csproj.CoreCompileInputs.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaSpectacolelor\ProblemaSpectacolelor\obj\Debug\ProblemaSpectacolelor.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaSpectacolelor\ProblemaSpectacolelor\obj\Debug\ProblemaSpectacolelor.pdb

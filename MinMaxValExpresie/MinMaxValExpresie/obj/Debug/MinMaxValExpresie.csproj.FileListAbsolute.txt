@@ -1,0 +1,7 @@
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\MinMaxValExpresie\MinMaxValExpresie\bin\Debug\MinMaxValExpresie.exe.config
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\MinMaxValExpresie\MinMaxValExpresie\bin\Debug\MinMaxValExpresie.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\MinMaxValExpresie\MinMaxValExpresie\bin\Debug\MinMaxValExpresie.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\MinMaxValExpresie\MinMaxValExpresie\obj\Debug\MinMaxValExpresie.csproj.CoreCompileInputs.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\MinMaxValExpresie\MinMaxValExpresie\obj\Debug\MinMaxValExpresie.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\MinMaxValExpresie\MinMaxValExpresie\obj\Debug\MinMaxValExpresie.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\MinMaxValExpresie\MinMaxValExpresie\obj\Debug\MinMaxValExpresie.csproj.AssemblyReference.cache
