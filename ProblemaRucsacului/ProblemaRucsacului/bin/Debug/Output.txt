@@ -1,0 +1,6 @@
+Object [#9]: weight: 3.42, price: 400 - raport: 116.96
+Object [#2]: weight: 10.23, price: 1004 - raport: 98.14
+Object [#5]: weight: 2.33, price: 109 - raport: 46.78
+Object [#6]: weight: 4.02, price: 164.05 - raport: 40.81
+---------------------------------------
+Total weight: 20 / Total price: 1677.05

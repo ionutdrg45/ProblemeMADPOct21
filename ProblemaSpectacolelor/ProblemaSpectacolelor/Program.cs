@@ -29,12 +29,12 @@ namespace ProblemaSpectacolelor
             var lines = File.ReadAllLines(filePath);
             var numberOfShows = Convert.ToInt32(lines[0]);
 
-            for (int i = 0; i < numberOfShows; i++)
+            for (int i = 1; i <= numberOfShows; i++)
             {
-                var details = lines[i + 1].Split(',');
+                var details = lines[i].Split(',');
                 shows.Add(new Show()
                 {
-                    Number = i + 1,
+                    Number = i,
                     start = TimeSpan.Parse(details[0]),
                     duration = Convert.ToInt32(details[1]),
                     end = TimeSpan.Parse(details[0]).Add(TimeSpan.FromHours(Convert.ToInt32(details[1])))

@@ -1,0 +1,7 @@
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaRucsacului\ProblemaRucsacului\bin\Debug\ProblemaRucsacului.exe.config
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaRucsacului\ProblemaRucsacului\bin\Debug\ProblemaRucsacului.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaRucsacului\ProblemaRucsacului\bin\Debug\ProblemaRucsacului.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaRucsacului\ProblemaRucsacului\obj\Debug\ProblemaRucsacului.csproj.CoreCompileInputs.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaRucsacului\ProblemaRucsacului\obj\Debug\ProblemaRucsacului.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaRucsacului\ProblemaRucsacului\obj\Debug\ProblemaRucsacului.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaRucsacului\ProblemaRucsacului\obj\Debug\ProblemaRucsacului.csproj.AssemblyReference.cache
