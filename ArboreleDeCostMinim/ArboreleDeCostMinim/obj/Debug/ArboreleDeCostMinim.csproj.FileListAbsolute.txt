@@ -1,0 +1,7 @@
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ArboreleDeCostMinim\ArboreleDeCostMinim\obj\Debug\ArboreleDeCostMinim.csproj.AssemblyReference.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ArboreleDeCostMinim\ArboreleDeCostMinim\obj\Debug\ArboreleDeCostMinim.csproj.CoreCompileInputs.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ArboreleDeCostMinim\ArboreleDeCostMinim\bin\Debug\ArboreleDeCostMinim.exe.config
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ArboreleDeCostMinim\ArboreleDeCostMinim\bin\Debug\ArboreleDeCostMinim.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ArboreleDeCostMinim\ArboreleDeCostMinim\bin\Debug\ArboreleDeCostMinim.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ArboreleDeCostMinim\ArboreleDeCostMinim\obj\Debug\ArboreleDeCostMinim.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ArboreleDeCostMinim\ArboreleDeCostMinim\obj\Debug\ArboreleDeCostMinim.pdb

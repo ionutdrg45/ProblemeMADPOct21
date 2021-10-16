@@ -1,0 +1,11 @@
+Edge from 1 to 5, cost: 1
+Edge from 2 to 4, cost: 2
+Edge from 2 to 3, cost: 3
+Edge from 3 to 5, cost: 4
+Edge from 4 to 5, cost: 5
+Edge from 1 to 3, cost: 6
+Edge from 4 to 6, cost: 7
+Edge from 2 to 7, cost: 8
+Edge from 6 to 7, cost: 9
+---------------------------------------
+Total cost: 45
