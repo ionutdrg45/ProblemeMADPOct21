@@ -1,0 +1,16 @@
+Color #1:
+	vertex #3 (valence: 3)
+Color #2:
+	vertex #1 (valence: 2)
+	vertex #4 (valence: 1)
+Color #3:
+	vertex #2 (valence: 2)
+
+
+Color #1:
+	vertex #1 (valence: 2)
+	vertex #4 (valence: 1)
+Color #2:
+	vertex #2 (valence: 2)
+Color #3:
+	vertex #3 (valence: 3)

@@ -1,0 +1,7 @@
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaColorariiHartilor\ProblemaColorariiHartilor\bin\Debug\ProblemaColorariiHartilor.exe.config
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaColorariiHartilor\ProblemaColorariiHartilor\bin\Debug\ProblemaColorariiHartilor.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaColorariiHartilor\ProblemaColorariiHartilor\bin\Debug\ProblemaColorariiHartilor.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaColorariiHartilor\ProblemaColorariiHartilor\obj\Debug\ProblemaColorariiHartilor.csproj.AssemblyReference.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaColorariiHartilor\ProblemaColorariiHartilor\obj\Debug\ProblemaColorariiHartilor.csproj.CoreCompileInputs.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaColorariiHartilor\ProblemaColorariiHartilor\obj\Debug\ProblemaColorariiHartilor.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPOct21\ProblemaColorariiHartilor\ProblemaColorariiHartilor\obj\Debug\ProblemaColorariiHartilor.pdb
